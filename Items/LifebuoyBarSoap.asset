@@ -35,7 +35,7 @@ MonoBehaviour:
   requiresBattery: 0
   batteryUsage: 15
   automaticallySetUsingPower: 1
-  itemIcon: {fileID: 21300000, guid: a204741e7620d9a458814d82b823adae, type: 3}
+  itemIcon: {fileID: 21300000, guid: 7afb514b0ceed17498444f05aefcc08e, type: 3}
   grabAnim: 
   useAnim: 
   pocketAnim: 
