@@ -60,6 +60,9 @@ MonoBehaviour:
   positionOffset: {x: 0.08, y: 0.2, z: -0.2}
   meshOffset: 1
   meshVariants: []
-  materialVariants: []
+  materialVariants:
+  - {fileID: 2100000, guid: 4e44d68a6f8ae9a4ba4afea7b87d0f75, type: 2}
+  - {fileID: 2100000, guid: 8bfac7c3e7ec6f24ba9aea99960ba77b, type: 2}
+  - {fileID: 2100000, guid: 44decef68f441964ea21048a5c26f0ad, type: 2}
   usableInSpecialAnimations: 0
   canBeInspected: 0
