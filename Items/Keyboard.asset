@@ -10,39 +10,39 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 57de7ec8508d99f458796c924e53850c, type: 3}
-  m_Name: LifebuoyBarSoap
+  m_Name: Keyboard
   m_EditorClassIdentifier: 
   itemId: 0
-  itemName: Lifebuoy Bar Soap
+  itemName: Keyboard
   spawnPositionTypes: []
-  twoHanded: 0
-  twoHandedAnimation: 0
-  disableHandsOnWall: 0
+  twoHanded: 1
+  twoHandedAnimation: 1
+  disableHandsOnWall: 1
   canBeGrabbedBeforeGameStart: 1
-  weight: 1
+  weight: 1.2
   itemIsTrigger: 0
   holdButtonUse: 0
   itemSpawnsOnGround: 1
-  isConductiveMetal: 0
+  isConductiveMetal: 1
   isScrap: 1
   creditsWorth: 0
   lockedInDemo: 0
   highestSalePercentage: 80
-  maxValue: 50
-  minValue: 20
-  spawnPrefab: {fileID: 321624610568559872, guid: 2c87144e9d944244f9faa4bfb9b7e791,
+  maxValue: 1100
+  minValue: 400
+  spawnPrefab: {fileID: 4150784984326052419, guid: 6ce1ccfcdea36a64999cb8faba2198a1,
     type: 3}
   requiresBattery: 0
   batteryUsage: 15
   automaticallySetUsingPower: 1
-  itemIcon: {fileID: 21300000, guid: 7afb514b0ceed17498444f05aefcc08e, type: 3}
+  itemIcon: {fileID: 21300000, guid: 72c0ea7d2d23b3c43b8c04fcdc6ec3e6, type: 3}
   grabAnim: 
   useAnim: 
   pocketAnim: 
   throwAnim: 
   grabAnimationTime: 0
-  grabSFX: {fileID: 8300000, guid: ad029539ee9d99249b35b2d27935043d, type: 3}
-  dropSFX: {fileID: 8300000, guid: 97c9967e9897fe1458a74b719962aef2, type: 3}
+  grabSFX: {fileID: 0}
+  dropSFX: {fileID: 8300000, guid: 11871d9d5ca64a7469463cff790904c7, type: 3}
   pocketSFX: {fileID: 0}
   throwSFX: {fileID: 0}
   syncGrabFunction: 1
@@ -56,13 +56,10 @@ MonoBehaviour:
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 1
   restingRotation: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 180, y: 0, z: 0}
-  positionOffset: {x: 0.08, y: 0.2, z: -0.2}
+  rotationOffset: {x: 0, y: 0, z: 0}
+  positionOffset: {x: 0, y: 0, z: 0}
   meshOffset: 1
   meshVariants: []
-  materialVariants:
-  - {fileID: 2100000, guid: 44decef68f441964ea21048a5c26f0ad, type: 2}
-  - {fileID: 2100000, guid: 8bfac7c3e7ec6f24ba9aea99960ba77b, type: 2}
-  - {fileID: 2100000, guid: 4e44d68a6f8ae9a4ba4afea7b87d0f75, type: 2}
+  materialVariants: []
   usableInSpecialAnimations: 0
   canBeInspected: 0
