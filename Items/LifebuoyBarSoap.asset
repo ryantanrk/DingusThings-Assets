@@ -30,7 +30,7 @@ MonoBehaviour:
   highestSalePercentage: 80
   maxValue: 50
   minValue: 20
-  spawnPrefab: {fileID: 321624610568559872, guid: 2c87144e9d944244f9faa4bfb9b7e791,
+  spawnPrefab: {fileID: 2896980690601842334, guid: 2c87144e9d944244f9faa4bfb9b7e791,
     type: 3}
   requiresBattery: 0
   batteryUsage: 15
@@ -55,9 +55,9 @@ MonoBehaviour:
   verticalOffset: 0
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 1
-  restingRotation: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 180, y: 0, z: 0}
-  positionOffset: {x: 0.08, y: 0.2, z: -0.2}
+  restingRotation: {x: 0, y: 0, z: -90}
+  rotationOffset: {x: 0, y: 90, z: 90}
+  positionOffset: {x: 0.08, y: 0.15, z: -0.18}
   meshOffset: 1
   meshVariants: []
   materialVariants:
