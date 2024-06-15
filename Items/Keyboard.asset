@@ -17,7 +17,7 @@ MonoBehaviour:
   spawnPositionTypes: []
   twoHanded: 1
   twoHandedAnimation: 1
-  disableHandsOnWall: 0
+  disableHandsOnWall: 1
   canBeGrabbedBeforeGameStart: 1
   weight: 1.2
   itemIsTrigger: 0
@@ -36,7 +36,7 @@ MonoBehaviour:
   batteryUsage: 15
   automaticallySetUsingPower: 1
   itemIcon: {fileID: 21300000, guid: 72c0ea7d2d23b3c43b8c04fcdc6ec3e6, type: 3}
-  grabAnim: HoldLung
+  grabAnim: HoldJetpack
   useAnim: 
   pocketAnim: 
   throwAnim: 
@@ -56,8 +56,8 @@ MonoBehaviour:
   floorYOffset: 0
   allowDroppingAheadOfPlayer: 1
   restingRotation: {x: 0, y: 0, z: 0}
-  rotationOffset: {x: 0, y: 90, z: -41}
-  positionOffset: {x: -0.15, y: 0.25, z: -0.05}
+  rotationOffset: {x: 13, y: 185, z: 0}
+  positionOffset: {x: 0, y: 0.05, z: 0.05}
   meshOffset: 1
   meshVariants: []
   materialVariants: []
