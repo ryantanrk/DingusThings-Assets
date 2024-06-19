@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 57de7ec8508d99f458796c924e53850c, type: 3}
+  m_Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
   m_Name: SteamGiftCard
   m_EditorClassIdentifier: 
   itemId: 0
@@ -42,7 +42,7 @@ MonoBehaviour:
   throwAnim: 
   grabAnimationTime: 0
   grabSFX: {fileID: 8300000, guid: 84513226a7e76c0479732072f7850aa4, type: 3}
-  dropSFX: {fileID: 8300000, guid: b2ef4b687d0f18a4aa03ea597f77031e, type: 3}
+  dropSFX: {fileID: 8300000, guid: 4d5bef714c24701499fa852588be81ca, type: 3}
   pocketSFX: {fileID: 0}
   throwSFX: {fileID: 0}
   syncGrabFunction: 1

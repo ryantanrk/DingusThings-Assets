@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 57de7ec8508d99f458796c924e53850c, type: 3}
+  m_Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
   m_Name: MaggiInstantNoodlePack
   m_EditorClassIdentifier: 
   itemId: 0
@@ -41,8 +41,8 @@ MonoBehaviour:
   pocketAnim: 
   throwAnim: 
   grabAnimationTime: 0
-  grabSFX: {fileID: 8300000, guid: ad029539ee9d99249b35b2d27935043d, type: 3}
-  dropSFX: {fileID: 8300000, guid: 97c9967e9897fe1458a74b719962aef2, type: 3}
+  grabSFX: {fileID: 8300000, guid: 5754bdd9402c4324aacb071815614c87, type: 3}
+  dropSFX: {fileID: 8300000, guid: dea5ffa419ca8c543aa59158d742389b, type: 3}
   pocketSFX: {fileID: 0}
   throwSFX: {fileID: 0}
   syncGrabFunction: 1
