@@ -1,14 +1,9 @@
 fileFormatVersion: 2
-guid: c4ee081782d143c47b2560ceda9bd5f1
+guid: 187daac11f92cc94eba1b86a68b284d8
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: HeartMat
-    second: {fileID: 2100000, guid: 5da28dd32076f5d4198ed09b9b601b6c, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
